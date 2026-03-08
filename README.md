@@ -11,7 +11,6 @@ unzip A45-1.zip -d ./data/raw/
 
 ### 🇨🇳 中文 (中文版更新部分)
 
-```markdown
 ### 📥 数据集下载
 你可以通过以下链接获取完整的 32 GB 数据集压缩包 `A45-1.zip`：
 * **百度网盘下载**: [点击这里下载](https://pan.baidu.com/s/1EH7PxlWDUthg8Hx4wqhrgQ?pwd=pa2w) (提取码: `pa2w`)
