@@ -6,10 +6,8 @@ You can obtain the complete 32 GB dataset via the following link:
 
 **Unzip Instructions:**
 After downloading, please place `A45-1.zip` in the `data/` directory of the project and run the following command to extract it:
-```bash
-unzip A45-1.zip -d ./data/raw/
 
----
+unzip A45-1.zip -d ./data/raw/
 
 ### 🇨🇳 中文 (中文版更新部分)
 
@@ -22,5 +20,5 @@ unzip A45-1.zip -d ./data/raw/
 
 **解压说明：**
 下载完成后，请将 `A45-1.zip` 放置在项目的 `data/` 目录下，并执行以下命令解压：
-```bash
+
 unzip A45-1.zip -d ./data/raw/
